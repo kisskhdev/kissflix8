@@ -1,0 +1,3045 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:01:42.750
+[ Watch on KissFlix.co ]
+
+2
+01:43.020 --> 01:48.030
+[When I Meet The Moon]
+
+3
+01:48.050 --> 01:51.080
+[Episode 16]
+
+4
+02:04.850 --> 02:06.230
+Did he come to see me
+
+5
+02:06.560 --> 02:08.300
+just to return my scarf?
+
+6
+02:08.710 --> 02:10.690
+Why does he
+
+7
+02:10.690 --> 02:12.090
+seem a little impatient?
+
+8
+02:18.360 --> 02:18.910
+Hello?
+
+9
+02:18.910 --> 02:19.710
+What's up?
+
+10
+02:19.710 --> 02:20.520
+Hello, Li.
+
+11
+02:20.680 --> 02:22.079
+Did you guys meet?
+
+12
+02:22.079 --> 02:23.150
+Did you give her the gift?
+
+13
+02:23.150 --> 02:24.120
+Did everything go smoothly?
+
+14
+02:24.120 --> 02:25.750
+I'm really annoyed right now.
+
+15
+02:25.750 --> 02:26.470
+Can you stop bombarding me
+
+16
+02:26.470 --> 02:28.020
+with questions?
+
+17
+02:28.270 --> 02:29.680
+What's wrong with you?
+
+18
+02:31.520 --> 02:32.250
+Nothing.
+
+19
+02:33.840 --> 02:35.020
+Are you in a bad mood?
+
+20
+02:36.090 --> 02:37.840
+Weren't you meeting Yunyi
+
+21
+02:37.840 --> 02:39.100
+and her brother today?
+
+22
+02:39.810 --> 02:41.470
+It has nothing to do with that.
+
+23
+02:41.870 --> 02:42.870
+Yunyi got the gift
+
+24
+02:42.870 --> 02:43.520
+you sent her,
+
+25
+02:43.520 --> 02:44.920
+and she was really happy.
+
+26
+02:44.960 --> 02:45.520
+If that's all,
+
+27
+02:45.520 --> 02:46.410
+I'm hanging up.
+
+28
+02:46.710 --> 02:47.910
+Wait, one more thing.
+
+29
+02:48.410 --> 02:49.470
+The robotics competition
+
+30
+02:49.470 --> 02:51.120
+is tomorrow, right?
+
+31
+02:51.650 --> 02:52.870
+There's a problem
+
+32
+02:52.870 --> 02:54.120
+I just can't figure out.
+
+33
+02:54.120 --> 02:55.590
+Can you ask that guy
+
+34
+02:55.590 --> 02:56.960
+from XUST for me?
+
+35
+02:58.060 --> 02:59.590
+Why do you want me to ask him?
+
+36
+02:59.760 --> 03:01.620
+Who else am I supposed to ask? You?
+
+37
+03:01.680 --> 03:02.470
+I'm trying to give you
+
+38
+03:02.470 --> 03:03.650
+a chance here.
+
+39
+03:03.810 --> 03:04.650
+You have him on WeChat.
+
+40
+03:04.650 --> 03:05.650
+Ask him yourself.
+
+41
+03:09.210 --> 03:09.960
+Unbelievable! I try to help,
+
+42
+03:09.960 --> 03:11.690
+and you throw it back in my face!
+
+43
+03:27.340 --> 03:28.000
+Yun Ye,
+
+44
+03:28.500 --> 03:29.150
+what's up?
+
+45
+03:29.180 --> 03:29.840
+Hey, Shize.
+
+46
+03:30.000 --> 03:30.460
+I have a robotics competition
+
+47
+03:30.460 --> 03:31.910
+at the Science and Technology Festival tomorrow,
+
+48
+03:31.910 --> 03:32.650
+and there's something
+
+49
+03:32.650 --> 03:33.460
+about my robot
+
+50
+03:33.460 --> 03:34.620
+I wanted to ask you.
+
+51
+03:34.620 --> 03:35.310
+Go ahead.
+
+52
+03:35.680 --> 03:36.800
+It's the gait
+
+53
+03:36.800 --> 03:37.860
+and posture control.
+
+54
+03:37.860 --> 03:38.800
+It keeps being unstable.
+
+55
+03:38.800 --> 03:40.020
+I've adjusted it over and over
+
+56
+03:40.020 --> 03:41.020
+according to the manual,
+
+57
+03:41.020 --> 03:41.860
+but it's still not working.
+
+58
+03:41.860 --> 03:43.020
+Do you think it's a parameter issue
+
+59
+03:43.020 --> 03:45.079
+or a problem with the control system?
+
+60
+03:46.050 --> 03:47.250
+For posture control,
+
+61
+03:48.020 --> 03:49.180
+check the calibration
+
+62
+03:49.180 --> 03:51.079
+of the gyroscope and accelerometer,
+
+63
+03:51.079 --> 03:52.210
+as well as the PID parameters.
+
+64
+03:52.210 --> 03:53.750
+See if they need fine-tuning.
+
+65
+03:53.750 --> 03:54.970
+If that doesn't work,
+
+66
+03:55.460 --> 03:56.280
+there might be a balancing issue
+
+67
+03:56.280 --> 03:57.250
+with the motor
+
+68
+03:57.250 --> 03:58.650
+or transmission system.
+
+69
+03:58.650 --> 03:59.470
+Check for any wear
+
+70
+03:59.470 --> 04:00.970
+or deformation.
+
+71
+04:01.150 --> 04:02.310
+I'll give that a try.
+
+72
+04:02.410 --> 04:03.470
+Thanks, Shize!
+
+73
+04:03.620 --> 04:04.910
+You're seriously amazing.
+
+74
+04:04.910 --> 04:05.590
+Oh, by the way,
+
+75
+04:05.590 --> 04:06.620
+isn't the handmade drone
+
+76
+04:06.620 --> 04:08.370
+my sister gave you super cool?
+
+77
+04:09.460 --> 04:10.190
+I bet
+
+78
+04:10.190 --> 04:11.530
+she stayed up all night
+
+79
+04:11.550 --> 04:12.770
+making that drone.
+
+80
+04:15.280 --> 04:17.480
+The drone your sister gave me?
+
+81
+04:17.560 --> 04:18.250
+Yeah.
+
+82
+04:19.620 --> 04:21.620
+Wait, she hasn't given it to you yet?
+
+83
+04:23.920 --> 04:24.480
+Shize,
+
+84
+04:24.480 --> 04:25.370
+please pretend
+
+85
+04:25.370 --> 04:26.330
+this never happened,
+
+86
+04:26.330 --> 04:28.270
+or my sister will kill me!
+
+87
+04:31.220 --> 04:32.920
+I'll let you go now, Shize.
+
+88
+04:33.159 --> 04:34.010
+Thanks!
+
+89
+04:35.770 --> 04:36.950
+Yun Li,
+
+90
+04:37.250 --> 04:39.070
+why are you taking so long to give it to him?
+
+91
+04:39.070 --> 04:40.400
+Well, it's not my fault.
+
+92
+04:48.440 --> 04:49.250
+Mrs. Jiang.
+
+93
+04:49.750 --> 04:50.770
+How is Grandma?
+
+94
+04:51.420 --> 04:52.220
+There you are.
+
+95
+04:53.620 --> 04:55.620
+She really gave us a scare this time.
+
+96
+04:56.130 --> 04:57.659
+Your uncle stayed by her side for two days
+
+97
+04:57.659 --> 04:58.930
+and was completely worn out,
+
+98
+04:58.930 --> 05:00.790
+so I sent him home to get some rest.
+
+99
+05:01.450 --> 05:02.250
+Did the doctor say
+
+100
+05:02.250 --> 05:03.560
+what caused it?
+
+101
+05:03.870 --> 05:05.070
+I won't know
+
+102
+05:05.070 --> 05:06.010
+until the test results
+
+103
+05:06.010 --> 05:07.130
+come back.
+
+104
+05:08.860 --> 05:10.100
+Keep an eye on her for me.
+
+105
+05:10.100 --> 05:11.060
+I'm going
+
+106
+05:11.060 --> 05:12.300
+to get the test results.
+
+107
+05:12.300 --> 05:13.230
+Okay, Ms. Jiang.
+
+108
+05:14.130 --> 05:16.060
+Ring the bell if you need anything.
+
+109
+05:21.040 --> 05:21.540
+Hello?
+
+110
+05:22.310 --> 05:23.010
+Uncle,
+
+111
+05:23.120 --> 05:24.250
+tell Lili
+
+112
+05:24.360 --> 05:25.720
+I took care of it for her.
+
+113
+05:26.230 --> 05:27.290
+I'm busy right now.
+
+114
+05:27.990 --> 05:29.140
+Tell her yourself.
+
+115
+05:31.170 --> 05:31.990
+Yuanyuan.
+
+116
+05:32.720 --> 05:33.360
+Grandma.
+
+117
+05:33.560 --> 05:35.950
+Do you have something urgent to take care of?
+
+118
+05:35.950 --> 05:37.450
+No, I'm fine.
+
+119
+05:38.750 --> 05:39.510
+If you have things to do,
+
+120
+05:39.510 --> 05:40.800
+go ahead.
+
+121
+05:41.100 --> 05:42.100
+It's okay.
+
+122
+05:43.100 --> 05:45.159
+That's just how it is when you get old.
+
+123
+05:45.500 --> 05:46.860
+Something's bothering you one moment,
+
+124
+05:46.860 --> 05:48.460
+and something else the next.
+
+125
+05:48.620 --> 05:49.690
+It's nothing.
+
+126
+05:50.620 --> 05:51.420
+You don't have
+
+127
+05:51.420 --> 05:53.220
+to stay here with me all the time.
+
+128
+05:54.860 --> 05:55.659
+Grandma,
+
+129
+05:56.010 --> 05:57.670
+just focus on getting better.
+
+130
+05:58.310 --> 05:59.970
+I have nothing to take care of.
+
+131
+06:00.890 --> 06:01.690
+All right.
+
+132
+06:01.930 --> 06:02.430
+Come on,
+
+133
+06:03.510 --> 06:04.360
+let's get you covered up.
+
+134
+06:04.360 --> 06:05.220
+Get some sleep.
+
+135
+06:07.100 --> 06:07.890
+Okay.
+
+136
+06:08.890 --> 06:09.690
+Alright.
+
+137
+06:10.890 --> 06:11.690
+Go to sleep.
+
+138
+06:12.130 --> 06:13.460
+I'll stay here with you.
+
+139
+06:28.290 --> 06:29.090
+Yun Li, Yun Li!
+
+140
+06:30.100 --> 06:30.890
+What is it?
+
+141
+06:31.620 --> 06:32.500
+You have no idea
+
+142
+06:32.600 --> 06:34.600
+what a big deal happened yesterday!
+
+143
+06:35.120 --> 06:36.000
+What happened?
+
+144
+06:36.420 --> 06:37.450
+I never thought
+
+145
+06:37.480 --> 06:39.090
+Du Gefei would get what was coming to her.
+
+146
+06:39.090 --> 06:40.880
+It's so satisfying!
+
+147
+06:41.300 --> 06:42.810
+Mr. Xu's younger brother was incredible.
+
+148
+06:42.810 --> 06:44.500
+He put her firmly in her place.
+
+149
+06:45.510 --> 06:46.510
+Congratulations!
+
+150
+06:46.510 --> 06:48.500
+You've finally been vindicated.
+
+151
+06:48.500 --> 06:49.060
+Wait,
+
+152
+06:49.090 --> 06:50.170
+whose younger brother?
+
+153
+06:50.170 --> 06:51.970
+What happened with Fu Zhengchu?
+
+154
+06:52.300 --> 06:53.159
+Yesterday, Mr. Xu's younger brother
+
+155
+06:53.159 --> 06:54.250
+exposed
+
+156
+06:54.250 --> 06:55.620
+Du Gefei for smearing you in her online posts,
+
+157
+06:55.620 --> 06:57.250
+right in front of everyone!
+
+158
+06:58.100 --> 06:59.630
+You have to watch the video.
+
+159
+06:59.890 --> 07:01.750
+It's already been posted online,
+
+160
+07:01.920 --> 07:03.850
+and people are all calling her out.
+
+161
+07:04.160 --> 07:05.560
+I sincerely apologize.
+
+162
+07:07.060 --> 07:09.220
+All the allegations I posted about Idle Cloud
+
+163
+07:09.220 --> 07:10.690
+were fabricated.
+
+164
+07:11.500 --> 07:12.800
+Please stop believing
+
+165
+07:12.820 --> 07:13.950
+and spreading them.
+
+166
+07:14.300 --> 07:15.120
+I'd like
+
+167
+07:15.510 --> 07:17.710
+to apologize to Idle Cloud personally.
+
+168
+07:25.310 --> 07:26.120
+Fu Zhengchu,
+
+169
+07:26.920 --> 07:28.720
+try some of my homemade cookies.
+
+170
+07:29.510 --> 07:30.040
+Okay.
+
+171
+07:32.490 --> 07:33.290
+Fu Zhengchu,
+
+172
+07:33.430 --> 07:34.690
+thank you. Seriously.
+
+173
+07:36.310 --> 07:37.070
+You don't have
+
+174
+07:37.070 --> 07:37.540
+to thank me, Lili.
+
+175
+07:37.540 --> 07:38.130
+You've said thank you
+
+176
+07:38.130 --> 07:38.830
+like 800 times already.
+
+177
+07:38.830 --> 07:39.430
+J-Just
+
+178
+07:39.430 --> 07:40.220
+one last time.
+
+179
+07:40.220 --> 07:40.540
+Really,
+
+180
+07:40.540 --> 07:41.330
+if it weren't for you,
+
+181
+07:41.330 --> 07:43.370
+I wouldn't have been able to prove my innocence.
+
+182
+07:43.370 --> 07:44.070
+Honestly,
+
+183
+07:44.070 --> 07:45.270
+it was no big deal.
+
+184
+07:45.480 --> 07:46.630
+This kind of thing
+
+185
+07:46.630 --> 07:48.430
+is a piece of cake for me.
+
+186
+07:48.510 --> 07:49.270
+I may have had
+
+187
+07:49.270 --> 07:50.480
+to use a little of my charm,
+
+188
+07:50.480 --> 07:51.770
+but that's no big deal
+
+189
+07:52.120 --> 07:53.580
+for a handsome guy like me.
+
+190
+07:53.630 --> 07:54.310
+You sure have
+
+191
+07:54.310 --> 07:55.840
+a high opinion of yourself.
+
+192
+07:56.620 --> 07:58.180
+It's not that you're charming.
+
+193
+07:58.180 --> 07:59.770
+She's just easy to impress.
+
+194
+08:00.430 --> 08:01.070
+Tang Lin,
+
+195
+08:01.070 --> 08:01.570
+did you swallow
+
+196
+08:01.570 --> 08:02.480
+some medicated oil or something?
+
+197
+08:02.480 --> 08:03.740
+Why do you always have to make snide remarks?
+
+198
+08:03.740 --> 08:04.870
+If you'd seen
+
+199
+08:04.870 --> 08:06.980
+my brilliant performance that night,
+
+200
+08:06.980 --> 08:08.580
+you'd have thought I was 007.
+
+201
+08:10.120 --> 08:11.320
+But seriously, Lili,
+
+202
+08:11.510 --> 08:12.620
+if you really want to thank someone,
+
+203
+08:12.620 --> 08:13.310
+you should thank—
+
+204
+08:13.310 --> 08:13.830
+Enough!
+
+205
+08:15.180 --> 08:16.630
+Even a blind squirrel finds a nut once in a while,
+
+206
+08:16.630 --> 08:18.490
+and now you're bragging about it.
+
+207
+08:18.510 --> 08:19.240
+Lili, let's go.
+
+208
+08:19.240 --> 08:20.500
+Let's get back inside.
+
+209
+08:22.860 --> 08:23.560
+What's that about?
+
+210
+08:23.560 --> 08:24.890
+I wasn't even finished.
+
+211
+08:27.770 --> 08:28.570
+Tangy.
+
+212
+08:30.830 --> 08:31.720
+What's wrong?
+
+213
+08:32.870 --> 08:33.980
+Still upset?
+
+214
+08:37.120 --> 08:39.120
+Regretting throwing up too soon that night?
+
+215
+08:39.120 --> 08:41.030
+I told you not to drink so much.
+
+216
+08:44.010 --> 08:45.140
+I've made up my mind.
+
+217
+08:45.220 --> 08:46.480
+I'm done pursuing him.
+
+218
+08:47.890 --> 08:48.240
+B-But
+
+219
+08:48.240 --> 08:50.840
+you know it was all a misunderstanding, right?
+
+220
+08:50.980 --> 08:52.780
+It's got nothing to do with that.
+
+221
+08:53.630 --> 08:55.670
+Actually, after I drank too much that night,
+
+222
+08:55.670 --> 08:57.530
+I thought about it for a long time.
+
+223
+08:58.240 --> 08:59.460
+Maybe I'm just tired.
+
+224
+09:03.130 --> 09:04.030
+He's like a stone
+
+225
+09:04.030 --> 09:05.530
+that no amount of warmth can ever heat up.
+
+226
+09:05.530 --> 09:07.240
+I've laid all my affection
+
+227
+09:07.240 --> 09:08.620
+at his feet,
+
+228
+09:08.940 --> 09:10.000
+but what about him?
+
+229
+09:10.480 --> 09:11.840
+He's still laughing and joking every day,
+
+230
+09:11.840 --> 09:13.720
+completely carefree, like nothing matters.
+
+231
+09:13.720 --> 09:14.740
+A good relationship
+
+232
+09:14.740 --> 09:16.480
+should be a two-way street,
+
+233
+09:16.870 --> 09:18.340
+not a one-woman show,
+
+234
+09:18.750 --> 09:19.320
+right?
+
+235
+09:20.840 --> 09:22.670
+But if you give up just like that,
+
+236
+09:22.670 --> 09:24.170
+won't you regret it?
+
+237
+09:25.480 --> 09:26.270
+I think
+
+238
+09:26.270 --> 09:27.200
+if you
+
+239
+09:27.650 --> 09:29.130
+really like someone,
+
+240
+09:29.720 --> 09:31.530
+you should hang in there a little longer
+
+241
+09:31.530 --> 09:33.120
+and give it another shot.
+
+242
+09:33.670 --> 09:34.440
+At least
+
+243
+09:34.440 --> 09:36.370
+get a clear answer from him, right?
+
+244
+09:37.820 --> 09:39.770
+Even if you hit a brick wall,
+
+245
+09:40.170 --> 09:41.220
+at least you'll know you tried.
+
+246
+09:41.220 --> 09:43.020
+Then you won't have any regrets.
+
+247
+09:45.840 --> 09:46.530
+But
+
+248
+09:47.170 --> 09:48.770
+maybe letting go
+
+249
+09:48.770 --> 09:50.170
+is the right thing for me.
+
+250
+09:50.870 --> 09:51.770
+At least I won't have
+
+251
+09:51.770 --> 09:53.080
+to keep worrying about where I stand with him every day.
+
+252
+09:53.080 --> 09:54.370
+I won't have to keep staring at my phone,
+
+253
+09:54.370 --> 09:55.820
+waiting for his messages.
+
+254
+09:55.820 --> 09:56.580
+And I won't be
+
+255
+09:56.580 --> 09:57.980
+so hung up
+
+256
+09:57.980 --> 09:59.910
+on every little change in his mood.
+
+257
+10:05.530 --> 10:07.270
+But don't let my experience influence you.
+
+258
+10:07.270 --> 10:08.740
+Your situation is different from mine.
+
+259
+10:08.740 --> 10:10.080
+It's okay, Tangy.
+
+260
+10:10.080 --> 10:10.720
+Really,
+
+261
+10:10.720 --> 10:11.980
+I'll support
+
+262
+10:12.120 --> 10:13.320
+whatever you decide.
+
+263
+10:13.740 --> 10:14.670
+I just want you
+
+264
+10:14.670 --> 10:16.370
+to always be
+
+265
+10:16.370 --> 10:18.440
+that happy Tangy without a care in the world.
+
+266
+10:18.440 --> 10:19.130
+Seriously,
+
+267
+10:19.510 --> 10:20.320
+if you're feeling down,
+
+268
+10:20.320 --> 10:21.370
+I'll go out for drinks with you
+
+269
+10:21.370 --> 10:22.030
+right now.
+
+270
+10:22.030 --> 10:22.500
+No,
+
+271
+10:23.650 --> 10:25.110
+I'm never drinking again.
+
+272
+10:28.580 --> 10:30.030
+Honestly, I admire you.
+
+273
+10:30.480 --> 10:31.290
+You might think
+
+274
+10:31.290 --> 10:31.940
+I'm an extrovert,
+
+275
+10:31.940 --> 10:33.740
+but sometimes I'm such a coward.
+
+276
+10:34.120 --> 10:35.630
+You're different, though.
+
+277
+10:35.630 --> 10:38.830
+You're timid in little things, but brave when it matters.
+
+278
+10:41.940 --> 10:43.130
+How are things going with Fu Shize?
+
+279
+10:43.130 --> 10:44.930
+Have you given him the drone yet?
+
+280
+10:44.980 --> 10:45.910
+Not yet.
+
+281
+10:46.740 --> 10:48.460
+He returned my scarf,
+
+282
+10:48.670 --> 10:50.730
+and we haven't seen each other since.
+
+283
+10:51.530 --> 10:53.060
+Be a little more proactive.
+
+284
+11:04.890 --> 11:05.770
+Here, Grandma.
+
+285
+11:09.940 --> 11:10.740
+Is it too hot?
+
+286
+11:11.720 --> 11:12.520
+No, it's fine.
+
+287
+11:13.670 --> 11:14.550
+Just right.
+
+288
+11:27.370 --> 11:28.080
+Shize,
+
+289
+11:28.320 --> 11:29.530
+the engineering prototype has arrived.
+
+290
+11:29.530 --> 11:31.260
+We'll test it when you get back.
+
+291
+11:31.720 --> 11:32.410
+Got it.
+
+292
+11:34.100 --> 11:34.700
+By the way,
+
+293
+11:35.650 --> 11:36.650
+is there anything
+
+294
+11:37.440 --> 11:38.340
+on my desk?
+
+295
+11:38.370 --> 11:39.170
+Let me check.
+
+296
+11:42.370 --> 11:43.100
+There are...
+
+297
+11:43.810 --> 11:44.640
+just a few books.
+
+298
+11:44.640 --> 11:45.550
+Nothing else.
+
+299
+12:03.130 --> 12:03.820
+Hi, Yun Li.
+
+300
+12:05.340 --> 12:05.940
+I'm off.
+
+301
+12:32.660 --> 12:35.930
+[Inpatient]
+
+302
+13:02.410 --> 13:03.610
+Why don't you come in?
+
+303
+13:04.740 --> 13:06.440
+I just wanted to see Grandma.
+
+304
+13:06.510 --> 13:07.910
+Since she's resting,
+
+305
+13:07.910 --> 13:09.050
+I won't go in.
+
+306
+13:16.840 --> 13:17.630
+Maybe
+
+307
+13:18.510 --> 13:20.340
+it's better if I stay away?
+
+308
+13:21.320 --> 13:21.980
+Grandma probably
+
+309
+13:21.980 --> 13:24.180
+doesn't remember me anymore, does she?
+
+310
+13:26.320 --> 13:28.180
+Does she still think you're Yuan?
+
+311
+13:34.580 --> 13:35.370
+By the way,
+
+312
+13:35.910 --> 13:38.240
+the school lab was renovated a while back,
+
+313
+13:38.370 --> 13:39.130
+and your drone
+
+314
+13:39.130 --> 13:40.260
+is still at my place.
+
+315
+13:40.510 --> 13:42.570
+I'll bring it to you next time we meet.
+
+316
+13:45.170 --> 13:46.240
+Just keep it.
+
+317
+13:46.870 --> 13:47.720
+As a keepsake.
+
+318
+13:50.580 --> 13:52.220
+I used to think the same way.
+
+319
+13:52.870 --> 13:53.670
+But now, I don't think
+
+320
+13:53.670 --> 13:55.270
+any of that matters anymore.
+
+321
+13:56.580 --> 13:58.030
+What truly matters
+
+322
+13:58.620 --> 14:00.820
+has already found a place in our hearts,
+
+323
+14:00.840 --> 14:01.630
+hasn't it?
+
+324
+14:08.840 --> 14:10.440
+I had a dream the other night.
+
+325
+14:12.030 --> 14:14.030
+In it, we'd graduated with our PhDs.
+
+326
+14:15.910 --> 14:17.030
+I talked to Yuan
+
+327
+14:17.030 --> 14:18.960
+about so many things in that dream,
+
+328
+14:19.770 --> 14:20.870
+but I never told him the one thing
+
+329
+14:20.870 --> 14:22.220
+that mattered most.
+
+330
+14:26.410 --> 14:27.530
+Later, I found out
+
+331
+14:28.740 --> 14:30.670
+that Yuan had feelings for me, too.
+
+332
+14:31.870 --> 14:32.270
+And because
+
+333
+14:32.270 --> 14:34.130
+of one little misunderstanding,
+
+334
+14:34.940 --> 14:36.530
+we missed our chance.
+
+335
+14:38.320 --> 14:39.910
+That's when I realized that
+
+336
+14:40.340 --> 14:42.340
+what you see isn't always the truth.
+
+337
+14:44.340 --> 14:45.080
+If only I'd
+
+338
+14:45.080 --> 14:45.840
+cleared things up
+
+339
+14:45.080 --> 14:47.170
+with Yuan back then,
+
+340
+14:49.080 --> 14:51.480
+would things have turned out differently?
+
+341
+15:10.980 --> 15:11.770
+I'm sorry.
+
+342
+15:14.530 --> 15:15.320
+Shize,
+
+343
+15:15.720 --> 15:17.250
+it's really not your fault.
+
+344
+15:17.980 --> 15:19.220
+Let's leave the past
+
+345
+15:19.620 --> 15:21.270
+in the past.
+
+346
+15:30.720 --> 15:31.920
+I'd better get going.
+
+347
+16:31.940 --> 16:33.670
+Actually, the truth is out now.
+
+348
+16:35.910 --> 16:37.310
+You don't have to resign.
+
+349
+16:38.340 --> 16:39.400
+Do you really think
+
+350
+16:40.740 --> 16:42.630
+I can stay here after all this?
+
+351
+16:46.370 --> 16:47.480
+I can't stand
+
+352
+16:47.480 --> 16:49.530
+people looking at me differently.
+
+353
+16:55.390 --> 16:56.150
+Yun Li,
+
+354
+16:58.720 --> 16:59.530
+I'm sorry.
+
+355
+17:01.700 --> 17:03.180
+I hope you can forgive me.
+
+356
+17:09.640 --> 17:10.440
+Goodbye.
+
+357
+17:34.140 --> 17:34.720
+Hello?
+
+358
+17:34.990 --> 17:36.480
+Hey, I haven't been at the office for the past couple of days.
+
+359
+17:36.480 --> 17:37.810
+Is there anything I need to take care of?
+
+360
+17:37.810 --> 17:38.610
+No, nothing.
+
+361
+17:39.220 --> 17:40.310
+The company's been quiet while you've been away.
+
+362
+17:40.310 --> 17:41.770
+Nothing major has come up.
+
+363
+17:41.920 --> 17:43.850
+Is Grandma ready to be discharged?
+
+364
+17:45.310 --> 17:46.110
+That's good.
+
+365
+17:47.110 --> 17:48.510
+Let me ask you something.
+
+366
+17:48.680 --> 17:50.940
+If you wanted to ask a girl out for dinner,
+
+367
+17:51.330 --> 17:52.830
+what kind of restaurant would you choose?
+
+368
+17:52.830 --> 17:54.760
+You're asking a girl out to dinner?
+
+369
+17:55.610 --> 17:56.920
+Did I hear that right?
+
+370
+17:58.510 --> 17:59.310
+Shize,
+
+371
+17:59.810 --> 18:01.330
+you've finally caught on.
+
+372
+18:01.770 --> 18:02.570
+Oh, cut it out.
+
+373
+18:03.240 --> 18:04.840
+Just help me figure this out.
+
+374
+18:16.070 --> 18:16.740
+Jiang,
+
+375
+18:17.770 --> 18:18.530
+Mom's back.
+
+376
+18:18.530 --> 18:19.190
+She's back.
+
+377
+18:19.240 --> 18:19.810
+Grandma,
+
+378
+18:20.110 --> 18:21.750
+you should head inside first.
+
+379
+18:21.750 --> 18:22.510
+Yuan,
+
+380
+18:22.830 --> 18:24.160
+aren't you coming home?
+
+381
+18:29.140 --> 18:30.480
+Come in and sit for a while.
+
+382
+18:30.480 --> 18:31.280
+No, Ms. Jiang.
+
+383
+18:32.030 --> 18:34.110
+I have something to take care of later.
+
+384
+18:34.110 --> 18:34.920
+Yuan,
+
+385
+18:36.830 --> 18:38.360
+take good care of yourself.
+
+386
+18:39.330 --> 18:40.590
+Don't worry, Grandma.
+
+387
+18:40.870 --> 18:42.910
+♪ The dusk settles slow ♪
+
+388
+18:41.420 --> 18:42.930
+I'll head back first, then.
+
+389
+18:42.930 --> 18:45.940
+♪ Too faint of heart to follow through ♪
+
+390
+18:43.610 --> 18:44.220
+Watch your step.
+
+391
+18:44.220 --> 18:45.150
+Watch your step.
+
+392
+18:48.000 --> 18:50.000
+♪ It's grown like a habit ♪
+
+393
+18:50.020 --> 18:53.020
+♪ Awaiting dark clouds to spread ♪
+
+394
+18:55.480 --> 18:57.640
+♪ Fear promises are shallow ♪
+
+395
+18:59.130 --> 19:01.130
+♪ No match for the tides of change ♪
+
+396
+19:01.530 --> 19:02.880
+I heard Engineer Fu is going
+
+397
+19:02.740 --> 19:07.150
+♪ Let rain soak all that once was ours ♪
+
+398
+19:02.880 --> 19:05.140
+on a date with a girl he's known for years.
+
+399
+19:07.030 --> 19:08.180
+Fu Shize?
+
+400
+19:08.770 --> 19:09.680
+Surprised?
+
+401
+19:10.030 --> 19:11.240
+No wonder he's always been
+
+402
+19:11.240 --> 19:12.680
+so unapproachable at work.
+
+403
+19:12.680 --> 19:15.410
+Turns out he's had someone in his heart all along.
+
+404
+19:16.510 --> 19:17.590
+I even thought
+
+405
+19:17.590 --> 19:18.720
+you two were dating.
+
+406
+19:20.810 --> 19:21.480
+Then...
+
+407
+19:22.180 --> 19:23.710
+with someone as cold as him,
+
+408
+19:23.880 --> 19:26.070
+what kind of girl does he like?
+
+409
+19:26.510 --> 19:28.030
+I don't know the details.
+
+410
+19:28.530 --> 19:31.180
+But I heard she's really pretty,
+
+411
+19:31.310 --> 19:32.430
+has a great personality,
+
+412
+19:32.430 --> 19:33.600
+and is very capable.
+
+413
+19:33.620 --> 19:35.820
+They're a perfect match for each other.
+
+414
+19:37.440 --> 19:38.440
+I didn't expect
+
+415
+19:38.740 --> 19:40.420
+Engineer Fu to be so devoted.
+
+416
+19:43.740 --> 19:45.680
+N-No way, right?
+
+417
+19:46.420 --> 19:48.440
+Guess even he can fall in love!
+
+418
+19:49.030 --> 19:50.610
+But I'm curious, too.
+
+419
+19:50.920 --> 19:52.810
+Does it really take someone like him
+
+420
+19:52.810 --> 19:53.810
+this long
+
+421
+19:54.070 --> 19:55.640
+to win a girl over?
+
+422
+19:59.890 --> 20:03.170
+I heard you're going on a date with someone.
+
+423
+20:04.370 --> 20:06.190
+♪ A thin short line ♪
+
+424
+20:06.210 --> 20:09.830
+♪ Two hearts intertwined ♪
+
+425
+20:06.700 --> 20:08.590
+You're a wonderful person.
+
+426
+20:08.790 --> 20:09.850
+Thank you
+
+427
+20:09.850 --> 20:11.640
+for always taking care of me.
+
+428
+20:11.560 --> 20:13.560
+♪ Which way to go ♪
+
+429
+20:11.790 --> 20:12.740
+Maybe
+
+430
+20:12.810 --> 20:14.770
+I have no right to say this,
+
+431
+20:13.850 --> 20:16.830
+♪ Might be simpler so ♪
+
+432
+20:14.940 --> 20:16.050
+but I hope
+
+433
+20:16.050 --> 20:17.640
+you'll take better care of yourself.
+
+434
+20:17.640 --> 20:19.940
+You're the best person I've ever known,
+
+435
+20:18.870 --> 20:20.620
+♪ Some wait for an umbrella ♪
+
+436
+20:20.030 --> 20:22.030
+and you deserve the best.
+
+437
+20:20.640 --> 20:24.640
+♪ Some wait for the sun to show ♪
+
+438
+20:22.240 --> 20:24.290
+I heard you've met someone you like.
+
+439
+20:24.420 --> 20:25.750
+Thank you for coming into my life.
+
+440
+20:25.710 --> 20:31.010
+♪ Hesitant feet—which side should I stand on ♪
+
+441
+20:26.590 --> 20:28.120
+I won't bother you anymore.
+
+442
+20:33.510 --> 20:36.190
+♪ The cold pale moon ♪
+
+443
+20:36.210 --> 20:37.800
+♪ Never touching the ground ♪
+
+444
+20:37.820 --> 20:39.630
+♪ Far too out of reach ♪
+
+445
+20:39.650 --> 20:42.620
+♪ This damp murmur ♪
+
+446
+20:42.910 --> 20:47.380
+♪ Loud as it is, unheard ♪
+
+447
+20:45.930 --> 20:48.130
+[Delete Contact]
+
+448
+20:48.040 --> 20:51.390
+♪ Afraid it's too late ♪
+
+449
+20:51.550 --> 20:54.540
+♪ Resentment takes root inside ♪
+
+450
+20:55.070 --> 21:00.410
+♪ Let debts bid farewell to unease ♪
+
+451
+21:00.590 --> 21:02.280
+♪ We drift apart, each on our way ♪
+
+452
+21:02.310 --> 21:05.830
+♪ Maybe someday ♪
+
+453
+21:05.850 --> 21:08.450
+♪ Longing finds its way ♪
+
+454
+21:08.790 --> 21:15.500
+♪ I hope you write the ending of our tale ♪
+
+455
+21:15.520 --> 21:25.770
+♪ I hope you write the ending of our tale ♪
+
+456
+21:37.480 --> 21:38.070
+Hello?
+
+457
+21:38.320 --> 21:39.140
+I've got the restaurant
+
+458
+21:39.140 --> 21:40.310
+sorted out for you.
+
+459
+21:40.380 --> 21:41.240
+Let me tell you,
+
+460
+21:41.380 --> 21:42.770
+I asked a ton of people
+
+461
+21:42.830 --> 21:44.680
+before finally settling on this place.
+
+462
+21:44.680 --> 21:46.210
+I'll send you the location.
+
+463
+21:47.450 --> 21:48.630
+[Skyline Bistro]
+
+464
+21:50.330 --> 21:51.310
+Skyline Bistro?
+
+465
+21:51.810 --> 21:52.610
+It's on the top floor
+
+466
+21:52.610 --> 21:54.220
+of Tianqi Mall.
+
+467
+21:54.380 --> 21:55.420
+The food is great,
+
+468
+21:55.510 --> 21:57.030
+but the view is even better.
+
+469
+21:57.030 --> 21:57.740
+You can take in
+
+470
+21:57.740 --> 21:59.330
+the entire city of Nanwu at night.
+
+471
+21:59.330 --> 22:01.420
+It's the perfect place to take a girl on a date.
+
+472
+22:01.420 --> 22:02.680
+Just imagine it.
+
+473
+22:03.070 --> 22:04.610
+You two can eat and chat,
+
+474
+22:04.740 --> 22:06.330
+growing closer
+
+475
+22:06.530 --> 22:08.240
+as you gaze at the moon together.
+
+476
+22:08.240 --> 22:09.530
+Once you've had enough of the moon,
+
+477
+22:09.530 --> 22:11.440
+just look down
+
+478
+22:11.660 --> 22:12.770
+at a sea
+
+479
+22:13.570 --> 22:15.480
+of lights stretching across the city.
+
+480
+22:15.480 --> 22:17.140
+It couldn't be more romantic!
+
+481
+22:19.350 --> 22:20.180
+Xu Qingsong,
+
+482
+22:22.110 --> 22:23.310
+what should I prepare
+
+483
+22:23.870 --> 22:25.070
+for a date with a girl?
+
+484
+22:25.940 --> 22:26.740
+What a waste
+
+485
+22:26.740 --> 22:28.470
+of that handsome face of yours!
+
+486
+22:28.700 --> 22:29.220
+You've made it this far in life
+
+487
+22:29.220 --> 22:30.720
+without any dating experience.
+
+488
+22:30.720 --> 22:32.140
+It's not that complicated.
+
+489
+22:32.140 --> 22:34.310
+Flowers, beautiful scenery, and little gifts.
+
+490
+22:34.310 --> 22:35.030
+Of course,
+
+491
+22:35.030 --> 22:36.490
+she has to be into you, too.
+
+492
+22:36.610 --> 22:39.410
+Otherwise, nothing you do will make a difference.
+
+493
+22:39.980 --> 22:41.040
+I think she might be
+
+494
+22:42.180 --> 22:43.310
+a little into me.
+
+495
+22:44.240 --> 22:45.570
+What makes you say that?
+
+496
+22:45.810 --> 22:47.380
+That's none of your business.
+
+497
+22:47.380 --> 22:48.460
+How is it none—
+
+498
+22:54.070 --> 22:55.270
+You ungrateful jerk!
+
+499
+23:01.570 --> 23:07.980
+[Are you free tomorrow? I know a nice restaurant. Would you like to go with me?]
+
+500
+23:11.740 --> 23:12.340
+Forget it.
+
+501
+23:13.140 --> 23:14.470
+I'll tell her in person.
+
+502
+23:35.140 --> 23:35.830
+Hello!
+
+503
+23:35.980 --> 23:36.810
+Welcome.
+
+504
+23:37.770 --> 23:38.880
+What kind of flowers are you looking for?
+
+505
+23:38.880 --> 23:40.480
+I can recommend some for you.
+
+506
+23:43.330 --> 23:44.140
+I...
+
+507
+23:44.740 --> 23:46.330
+Who are the flowers for?
+
+508
+23:46.330 --> 23:48.530
+I can help you find something suitable.
+
+509
+23:50.330 --> 23:51.470
+I want to give them
+
+510
+23:52.200 --> 23:53.800
+to a girl who's been by my side
+
+511
+23:54.270 --> 23:54.920
+for many years
+
+512
+23:54.920 --> 23:56.050
+and means a lot to me.
+
+513
+23:58.640 --> 24:00.240
+How about violets?
+
+514
+24:01.070 --> 24:02.380
+They symbolize,
+
+515
+24:02.380 --> 24:03.740
+"In a world you know nothing about,
+
+516
+24:03.740 --> 24:04.770
+I'll love you
+
+517
+24:04.880 --> 24:06.080
+until the end of time.
+
+518
+24:06.530 --> 24:07.530
+I hope you're the one I begin with
+
+519
+24:07.530 --> 24:08.790
+and the one I end with."
+
+520
+24:11.850 --> 24:13.480
+Yeah, I'll take those.
+
+521
+24:14.380 --> 24:15.440
+Great. No problem.
+
+522
+24:50.660 --> 24:53.120
+I guess I won't be giving you to him after all.
+
+523
+25:31.140 --> 25:31.920
+He already
+
+524
+25:31.920 --> 25:33.510
+likes someone else.
+
+525
+25:34.030 --> 25:35.160
+What's the point
+
+526
+25:35.160 --> 25:36.420
+of adding him back now?
+
+527
+26:22.640 --> 26:23.750
+Hello?
+
+528
+26:23.840 --> 26:25.220
+Your flower delivery is here.
+
+529
+26:25.220 --> 26:25.980
+Yes,
+
+530
+26:26.470 --> 26:27.050
+that's right.
+
+531
+26:27.050 --> 26:28.380
+I'm at the entrance now.
+
+532
+26:42.200 --> 26:44.500
+Your number ends in 0237, and you're Mr. Fu, right?
+
+533
+26:44.500 --> 26:44.850
+Great.
+
+534
+26:44.850 --> 26:46.450
+Could you sign here, please?
+
+535
+26:52.100 --> 26:52.810
+Here's your bouquet.
+
+536
+26:52.810 --> 26:53.500
+Thank you.
+
+537
+26:57.030 --> 26:58.680
+Does he have a date today?
+
+538
+26:58.790 --> 27:00.140
+He even got a bouquet.
+
+539
+27:26.480 --> 27:27.280
+Would you like
+
+540
+27:29.830 --> 27:30.960
+to get coffee today?
+
+541
+27:33.910 --> 27:34.650
+No, thanks!
+
+542
+28:00.740 --> 28:02.890
+[Add to Contacts]
+
+543
+28:06.530 --> 28:08.070
+He didn't even notice
+
+544
+28:08.070 --> 28:10.330
+I'd removed him from my WeChat contacts.
+
+545
+28:19.330 --> 28:20.120
+Hello?
+
+546
+28:20.310 --> 28:21.110
+Hi,
+
+547
+28:21.310 --> 28:22.440
+this is Yin Yucheng.
+
+548
+28:22.720 --> 28:23.310
+Hi.
+
+549
+28:23.310 --> 28:24.720
+What can I do for you?
+
+550
+28:25.070 --> 28:26.570
+Could we meet up and talk?
+
+551
+28:27.060 --> 28:28.820
+It's about Yun Ye and Yunyi.
+
+552
+28:29.420 --> 28:30.640
+What's happened to them?
+
+553
+28:30.640 --> 28:31.270
+It's a bit complicated
+
+554
+28:31.270 --> 28:32.220
+to explain over the phone.
+
+555
+28:32.220 --> 28:33.350
+Let's meet and talk.
+
+556
+28:34.680 --> 28:35.160
+Okay.
+
+557
+28:36.510 --> 28:37.040
+Bye-bye.
+
+558
+28:44.380 --> 28:45.180
+Thank you.
+
+559
+28:45.610 --> 28:46.270
+No problem.
+
+560
+28:48.010 --> 28:49.140
+Would you like something to eat?
+
+561
+28:49.140 --> 28:49.680
+No, thanks.
+
+562
+28:49.680 --> 28:51.810
+I have to get back to work at the office soon.
+
+563
+28:51.810 --> 28:52.440
+Senior,
+
+564
+28:52.440 --> 28:54.880
+is there something you wanted to talk to me about?
+
+565
+28:54.880 --> 28:55.680
+I'm sorry
+
+566
+28:55.880 --> 28:57.240
+for asking you to meet me so suddenly.
+
+567
+28:57.240 --> 28:59.510
+This might be a little awkward to talk about,
+
+568
+28:59.510 --> 29:00.980
+but it's important,
+
+569
+29:01.010 --> 29:02.180
+and I wanted you
+
+570
+29:02.330 --> 29:03.590
+to be the first to know.
+
+571
+29:12.310 --> 29:14.610
+Ever since Yunyi started boarding at school,
+
+572
+29:14.610 --> 29:15.380
+I've been the one collecting the mail
+
+573
+29:15.380 --> 29:16.480
+sent to our house.
+
+574
+29:16.480 --> 29:17.140
+I noticed
+
+575
+29:17.140 --> 29:18.420
+that ever since we moved to Nanwu,
+
+576
+29:18.420 --> 29:19.580
+she's been getting postcards
+
+577
+29:19.580 --> 29:20.980
+from her old classmates.
+
+578
+29:21.070 --> 29:22.220
+About three a week.
+
+579
+29:22.220 --> 29:23.310
+In less than a month,
+
+580
+29:23.310 --> 29:24.840
+she's received almost ten.
+
+581
+29:25.640 --> 29:27.480
+Yunyi must be pretty popular.
+
+582
+29:29.440 --> 29:32.070
+The postcards are all signed by Class 15 of Grade 11,
+
+583
+29:32.070 --> 29:33.830
+but I compared the handwriting,
+
+584
+29:33.830 --> 29:35.690
+and it's identical on all of them.
+
+585
+29:37.480 --> 29:39.070
+It's the same handwriting
+
+586
+29:39.360 --> 29:41.160
+as on the gift box last time, too.
+
+587
+29:43.070 --> 29:44.530
+Yun Ye...
+
+588
+29:44.660 --> 29:46.090
+Unbelievable.
+
+589
+29:46.510 --> 29:47.830
+If I'm not mistaken,
+
+590
+29:48.720 --> 29:50.580
+Yun Ye must have written them all.
+
+591
+29:51.140 --> 29:52.270
+That's what I think.
+
+592
+29:53.480 --> 29:54.880
+Don't you want to read the letters?
+
+593
+29:54.880 --> 29:55.570
+I'd rather not.
+
+594
+29:55.570 --> 29:57.770
+I don't feel right reading his letters.
+
+595
+29:57.830 --> 29:59.490
+You don't feel right about it?
+
+596
+30:00.140 --> 30:01.770
+Well, they're private.
+
+597
+30:03.640 --> 30:05.270
+There's nothing much in them, actually.
+
+598
+30:05.270 --> 30:05.680
+Just simple
+
+599
+30:05.680 --> 30:07.750
+greetings and words of encouragement.
+
+600
+30:07.750 --> 30:08.330
+If it weren't
+
+601
+30:08.330 --> 30:09.480
+affecting their studies,
+
+602
+30:09.480 --> 30:10.940
+I wouldn't want to interfere, either.
+
+603
+30:10.940 --> 30:12.680
+But kids that age
+
+604
+30:12.680 --> 30:13.980
+can be fickle.
+
+605
+30:15.070 --> 30:17.030
+Let's keep the lines of communication open.
+
+606
+30:17.030 --> 30:18.380
+If you hear anything,
+
+607
+30:19.010 --> 30:19.980
+give me a call anytime.
+
+608
+30:19.980 --> 30:20.240
+Okay.
+
+609
+30:20.240 --> 30:21.970
+I'll talk to him when I get back.
+
+610
+30:25.070 --> 30:25.510
+Senior,
+
+611
+30:25.510 --> 30:27.850
+there's just one thing I wanted to ask you.
+
+612
+30:28.160 --> 30:28.960
+Go ahead.
+
+613
+30:29.610 --> 30:31.340
+Has Yunyi
+
+614
+30:31.370 --> 30:33.510
+ever written back to Yun Ye?
+
+615
+30:36.270 --> 30:37.220
+I don't think so.
+
+616
+30:44.010 --> 30:45.480
+Thanks for coming all this way.
+
+617
+30:45.480 --> 30:45.850
+No problem.
+
+618
+30:45.850 --> 30:46.310
+I'll have a serious talk with Yun Ye
+
+619
+30:46.310 --> 30:47.680
+when I get back.
+
+620
+30:47.960 --> 30:50.960
+You don't need to put too much pressure on him, either.
+
+621
+30:56.810 --> 30:57.310
+Yun Li.
+
+622
+30:58.830 --> 30:59.770
+Fu Shize.
+
+623
+31:01.880 --> 31:02.810
+Long time no see.
+
+624
+31:02.920 --> 31:03.980
+Do you remember me?
+
+625
+31:06.570 --> 31:07.900
+You two know each other?
+
+626
+31:08.810 --> 31:09.790
+We used to be captains
+
+627
+31:09.790 --> 31:11.170
+of drone teams.
+
+628
+31:11.190 --> 31:12.720
+We competed against each other several times.
+
+629
+31:12.720 --> 31:14.250
+You could say we were old rivals.
+
+630
+31:14.250 --> 31:15.050
+Rivals?
+
+631
+31:18.050 --> 31:19.310
+I need to talk to Yun Li.
+
+632
+31:19.510 --> 31:20.500
+And you are?
+
+633
+31:21.010 --> 31:21.610
+We're—
+
+634
+31:21.610 --> 31:22.350
+Coworkers.
+
+635
+31:23.920 --> 31:25.270
+Y-You said you needed to talk to me, right?
+
+636
+31:25.270 --> 31:25.980
+Let's go.
+
+637
+31:26.010 --> 31:27.340
+Senior, I'll get going.
+
+638
+31:27.460 --> 31:28.590
+Go ahead. Take care.
+
+639
+31:47.960 --> 31:50.550
+W-What did you want to see me about?
+
+640
+31:54.750 --> 31:55.750
+Wasn't that drone
+
+641
+31:57.480 --> 31:58.420
+for me?
+
+642
+32:02.090 --> 32:02.700
+No.
+
+643
+32:06.950 --> 32:07.610
+I've got something to do.
+
+644
+32:07.610 --> 32:08.670
+I should get going.
+
+645
+32:25.610 --> 32:26.940
+I want to give this drone
+
+646
+32:27.610 --> 32:28.810
+to someone
+
+647
+32:28.810 --> 32:30.010
+very important to me.
+
+648
+32:50.980 --> 32:52.710
+Haven't you finished work yet?
+
+649
+32:53.640 --> 32:54.500
+What about you?
+
+650
+32:54.870 --> 32:55.850
+Not for a while.
+
+651
+34:22.800 --> 34:25.610
+♪ I look up at the sky ♪
+
+652
+34:26.360 --> 34:29.010
+♪ And there you are, always by my side ♪
+
+653
+34:29.810 --> 34:32.219
+♪ Since when did it begin? ♪
+
+654
+34:32.239 --> 34:35.440
+♪ I can't quite recall ♪
+
+655
+34:36.350 --> 34:39.440
+♪ You became the clouds in my dreams ♪
+
+656
+34:39.940 --> 34:42.100
+♪ Silent and weightless ♪
+
+657
+34:42.360 --> 34:45.400
+♪ I wish I could stay ♪
+
+658
+34:46.100 --> 34:49.400
+♪ Walking by your side forever ♪
+
+659
+34:50.969 --> 34:53.900
+♪ Through seasons of endless change ♪
+
+660
+34:53.920 --> 34:56.080
+♪ Through tides that ebb and flow ♪
+
+661
+34:57.960 --> 35:00.910
+♪ Letting moments overlap ♪
+
+662
+35:00.930 --> 35:03.220
+♪ As we feel the world transform ♪
+
+663
+35:04.300 --> 35:07.870
+♪ I'm just glad I was brave enough ♪
+
+664
+35:08.040 --> 35:10.900
+♪ To meet the moon ♪
+
+665
+35:10.930 --> 35:13.860
+♪ Gently, I pluck a piece of it ♪
+
+666
+35:13.880 --> 35:16.770
+♪ And let loneliness fade away ♪
+
+667
+35:16.800 --> 35:20.960
+♪ All I want is to be with you ♪
+
+668
+35:21.280 --> 35:24.150
+♪ That's the only thing that matters ♪
+
+669
+35:22.230 --> 35:22.900
+Yun Li.
+
+670
+35:24.260 --> 35:28.000
+♪ Love gives us all ♪
+
+671
+35:28.020 --> 35:31.080
+♪ Like the moon lighting up every night ♪
+
+672
+35:31.100 --> 35:31.920
+♪ You know ♪
+
+673
+35:31.940 --> 35:35.180
+♪ I want to fall in love with you ♪
+
+674
+35:35.200 --> 35:38.010
+♪ No matter how many times I say I love you ♪
+
+675
+35:35.840 --> 35:36.500
+Yun Li.
+
+676
+35:38.040 --> 35:41.620
+♪ Clouds, please drift a little closer ♪
+
+677
+35:42.510 --> 35:47.410
+♪ I could say it ten thousand times and never tire ♪
+
+678
+35:47.800 --> 35:48.570
+Yun Lili.
+
+679
+35:59.040 --> 36:02.310
+♪ Practice the poem of love time and again ♪
+
+680
+36:02.340 --> 36:05.740
+♪ Where should I begin with these soft and low whispers? ♪
+
+681
+36:05.760 --> 36:08.900
+♪ The moonlight is gently cast upon your name ♪
+
+682
+36:07.170 --> 36:09.280
+Did you just call my name?
+
+683
+36:08.920 --> 36:13.120
+♪ I look up, and you're always there, so tenderly ♪
+
+684
+36:10.460 --> 36:11.390
+You were asleep.
+
+685
+36:13.370 --> 36:15.820
+♪ Through seasons of endless change ♪
+
+686
+36:14.820 --> 36:16.480
+What's up?
+
+687
+36:15.850 --> 36:18.480
+♪ Through ceaseless tides that ebb and flow ♪
+
+688
+36:18.820 --> 36:19.940
+I'm about to head out.
+
+689
+36:19.940 --> 36:21.480
+I saw the lights were still on in here.
+
+690
+36:19.940 --> 36:22.440
+♪ Letting moments overlap ♪
+
+691
+36:22.460 --> 36:25.850
+♪ As we feel the changes of seasons ♪
+
+692
+36:26.430 --> 36:30.000
+♪ I'm just glad I was brave enough ♪
+
+693
+36:30.170 --> 36:33.030
+♪ To meet the moon ♪
+
+694
+36:31.510 --> 36:32.170
+Ready to go?
+
+695
+36:33.060 --> 36:35.740
+♪ Gently, I pluck a piece of it ♪
+
+696
+36:35.760 --> 36:38.900
+♪ And let loneliness fade away ♪
+
+697
+36:35.780 --> 36:36.510
+You want me
+
+698
+36:36.610 --> 36:37.730
+to go with you?
+
+699
+36:39.070 --> 36:43.230
+♪ All I want is to be with you ♪
+
+700
+36:40.920 --> 36:42.630
+I can get home on my own.
+
+701
+36:43.420 --> 36:46.290
+♪ That's the only thing that matters ♪
+
+702
+36:44.110 --> 36:45.110
+It's not very safe
+
+703
+36:45.710 --> 36:46.530
+out there lately.
+
+704
+36:46.390 --> 36:50.130
+♪ Love gives us all ♪
+
+705
+36:48.380 --> 36:50.150
+I'm waiting for a file from a coworker.
+
+706
+36:50.150 --> 36:53.210
+♪ Like the moon lighting up every night ♪
+
+707
+36:50.260 --> 36:51.590
+You go ahead.
+
+708
+36:53.330 --> 36:54.150
+♪ You know ♪
+
+709
+36:54.180 --> 36:57.420
+♪ I want to fall in love with you ♪
+
+710
+36:57.440 --> 37:00.250
+♪ No matter how many times I say I love you ♪
+
+711
+37:00.280 --> 37:03.860
+♪ Clouds, please drift a little closer ♪
+
+712
+37:04.750 --> 37:10.570
+♪ I could say it ten thousand times and never tire ♪
+
+713
+38:13.560 --> 38:14.870
+Why are you still here?
+
+714
+38:15.420 --> 38:16.620
+I was waiting for you.
+
+715
+38:19.340 --> 38:19.900
+Let's go.
+
+716
+38:20.860 --> 38:21.420
+Okay.
+
+717
+38:55.450 --> 38:57.030
+Am I walking too fast?
+
+718
+39:15.540 --> 39:16.630
+Have you not had dinner yet?
+
+719
+39:16.630 --> 39:17.320
+No.
+
+720
+39:17.440 --> 39:18.210
+Actually, tonight, I...
+
+721
+39:18.210 --> 39:19.690
+I know you have things to do.
+
+722
+39:19.690 --> 39:20.070
+It's okay.
+
+723
+39:20.070 --> 39:20.940
+Just take care of your own stuff.
+
+724
+39:20.940 --> 39:21.980
+Don't worry about me.
+
+725
+39:21.980 --> 39:22.400
+I...
+
+726
+39:22.400 --> 39:23.320
+The guesthouse is just up ahead.
+
+727
+39:23.320 --> 39:24.320
+I'm almost there.
+
+728
+39:24.320 --> 39:24.920
+Bye-bye.
+
+729
+39:47.380 --> 39:48.180
+Good evening,
+
+730
+39:48.320 --> 39:49.110
+Shize.
+
+731
+39:50.420 --> 39:51.110
+I feel like
+
+732
+39:51.110 --> 39:53.040
+I've regained a lot more memories.
+
+733
+39:53.110 --> 39:55.170
+Was it you who helped me get them back?
+
+734
+39:55.360 --> 39:56.150
+Yeah.
+
+735
+40:02.380 --> 40:03.180
+What's wrong?
+
+736
+40:04.130 --> 40:05.460
+Something on your mind?
+
+737
+40:10.820 --> 40:11.610
+Yuan,
+
+738
+40:13.620 --> 40:14.620
+remember the girl
+
+739
+40:15.760 --> 40:16.610
+I told you about
+
+740
+40:16.610 --> 40:17.510
+last time?
+
+741
+40:17.570 --> 40:18.380
+Yup, I do.
+
+742
+40:19.420 --> 40:20.280
+How's it going?
+
+743
+40:20.670 --> 40:22.070
+Are you two together now?
+
+744
+40:25.610 --> 40:26.420
+Not yet.
+
+745
+40:26.570 --> 40:27.460
+Still not?
+
+746
+40:28.480 --> 40:30.340
+Don't tell me you still don't know
+
+747
+40:30.860 --> 40:33.190
+how to win a girl over, just like back then.
+
+748
+40:34.550 --> 40:35.610
+You got that right.
+
+749
+40:37.550 --> 40:38.710
+She's the girl
+
+750
+40:39.150 --> 40:40.110
+who played robot soccer
+
+751
+40:40.110 --> 40:40.880
+back then.
+
+752
+40:41.610 --> 40:42.540
+Wait, it was her?
+
+753
+40:43.490 --> 40:44.790
+You were already
+
+754
+40:44.810 --> 40:46.670
+so into her back then, weren't you?
+
+755
+40:46.670 --> 40:48.570
+You were clearly smitten with her,
+
+756
+40:48.570 --> 40:50.850
+yet you still made me deliver that little soccer ball to her.
+
+757
+40:50.850 --> 40:52.050
+If you'd confessed
+
+758
+40:52.380 --> 40:53.650
+your feelings sooner,
+
+759
+40:53.650 --> 40:54.320
+you wouldn't
+
+760
+40:54.320 --> 40:56.850
+be dealing with all these complications now.
+
+761
+40:57.630 --> 40:58.420
+Yeah.
